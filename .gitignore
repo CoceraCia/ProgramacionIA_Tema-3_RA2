@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+~$*
+*.tmp
+# MNIST se descarga solo al ejecutar
+datos/
+*/datos/
+# logs de TensorBoard
+*/logs/

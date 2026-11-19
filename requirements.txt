@@ -1,0 +1,9 @@
+# torch sin CUDA (mucho más ligero); quita esta línea si quieres la versión con GPU
+--extra-index-url https://download.pytorch.org/whl/cpu
+scikit-learn
+matplotlib
+pandas
+torch
+torchvision
+tensorflow
+tensorboard
